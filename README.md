@@ -111,3 +111,8 @@ END
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
 
+
+Knowledge of the origin of feathers developed as new fossils were discovered throughout the 2000s and the 2010s, and technology enabled scientists to study fossils more closely. Among non-avian dinosaurs, feathers or feather-like integument have been discovered in dozens of genera via direct and indirect fossil evidence.[2] Although the vast majority of feather discoveries have been in coelurosaurian theropods, feather-like integument has also been discovered in at least three ornithischians, suggesting that feathers may have been present on the last common ancestor of the Ornithoscelida, a dinosaur group including both theropods and ornithischians.[3] It is possible that feathers first developed in even earlier archosaurs, in light of the discovery of vaned feathers in pterosaurs.[4][5] Fossil feathers from the dinosaur Sinosauropteryx contain traces of beta-proteins (formerly called beta-keratins), confirming that early feathers had a composition similar to that of feathers in modern birds.[6] Crocodilians also possess beta keratin similar to those of birds, which suggests that they evolved from common ancestral genes.[7][8]
+
+
+
